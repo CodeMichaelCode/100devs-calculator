@@ -23,12 +23,23 @@ h1 {
     margin-bottom: 20px;
 }
 
-h2{
+#screen{
     font-size: 4rem;
     background-color: #ffffff;
-    padding: 20px;
+    padding: 15px 20px;
     margin-bottom: 20px;
+    min-height: 79px;
     /* direction: rtl; */
+}
+
+#clear {
+    font-size: 3rem;
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 section {
